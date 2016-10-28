@@ -9,9 +9,13 @@ De momento, está a ser desenvolvida uma App para smartphones, possibilitando os
 //Apresentação do Caso de Estudo
 
 -> cada reserva corresponde a 1 lugar apenas (tipo reserva = bilhete);
+
 -> comboios tem 2 tipos (nacional / internacional)
 	 Apenas comboios internacionais, fazem viagens internacionais;
 	 Comboios nacionais, fazem viagens nacionais;
--> No processo de reserva é necessário indicar Nome, B.I., endereço do cliente, partida, destino, selecionar uma das viagens existentes, para esse local, inicial e local de destino). Para além disso, tem que entregar o número de cartão de crédito para validar o pagamento da reserva.
+Para além disso, o comboio têm um nº que o destigue dos outros todos e tem um nº de lugares fixo.
+
+-> No processo de reserva é necessário indicar Nome, B.I., contacto, endereço do cliente, partida, destino, selecionar uma das viagens existentes, para esse local, inicial e local de destino). Para além disso, tem que entregar o número de cartão de crédito para validar o pagamento da reserva.
+
 -> Ao fim é lhe indicado o lugar no comboio, o comboio (detalhes dele), hora e local de partida e chegada da viagem, e a sua duração.
 
