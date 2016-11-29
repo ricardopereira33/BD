@@ -1,5 +1,0 @@
-- Reserva de viagens em comboios nacionais ou internacionais
-
-Uma empresa ferroviária pretende desenvolver uma pequena base de dados para registar as reservas de viagens, quer seja nacional ou internacional. Nesta empresa, cada comboio é identificado por um número único e possui um determinado tipo de máquina (a vapor ou elétrico). Para além disso, cada estação que um comboio para, está associado a um nome único e uma localidade. Os comboios nacionais param em todas as estações, no entanto, os comboios internacionais, apenas param em estações internacionais.
-
-No processo de reserva de uma viagem, o cliente deve indicar o destino, o seu bilhete de identidade, a sua residência atual (rua, localidade e código postal), contacto (telefone e e-mail) e entregar um cartão de crédito para assegurar o pagamento da reserva. Após verificar o cartão de crédito do cliente, o funcionário da empresa fornece-lhe os detalhes da viagem (hora, peso limite da bagagem, estação e número do comboio), cobrando-lhe, no momento, 15% do valor total da reserva, e passando, de imediato, o respetivo recibo.
